@@ -1,0 +1,2 @@
+This script converts a specified ARFF file to a MySQL create table statement
+and MySQL insert statements.
