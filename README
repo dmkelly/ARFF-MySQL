@@ -1,2 +1,3 @@
 This script converts a specified ARFF file to a MySQL create table statement
-and MySQL insert statements.
+and MySQL insert statements. It's basically just a quick and dirty of doing this
+over Weka's built-in mechanism.
